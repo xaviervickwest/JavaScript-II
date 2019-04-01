@@ -1,6 +1,6 @@
 
 # JavaScript - II
-
+ 
 With some basic JavaScript principles in hand, we can now expand our skills out even further by exploring callback functions, array methods, and closure.  Finish each task in order as the concepts build on one another.
 
 ## Task 1: Set Up The Project With Git
@@ -43,6 +43,6 @@ We have learned that closures allow us to access values in scope that have alrea
 
 ## Stretch Goals
 
-* [ ] Arrow Function Syntax - [Check out this awesome guide for ES6 arrow syntax](https://medium.freecodecamp.org/when-and-why-you-should-use-es6-arrow-functions-and-when-you-shouldnt-3d851d7f0b26). You will see more and more arrow functions as you progress deeper into JavaScript. Use the [stretch-function-conversion.js](assignments/function-conversion.js) file as a helper challenge to showcase some of the differences between ES5 and ES6 syntax. 
+* [ ] Arrow Function Syntax - [Check out this awesome guide for ES6 arrow syntax](https://medium.freecodecamp.org/when-and-why-you-should-use-es6-arrow-functions-and-when-you-shouldnt-3d851d7f0b26). You will see more and more arrow functions as you progress deeper into JavaScript. Use the [stretch-function-conversion.js](assignments/function-conversion.js) file as a helper challenge to showcase some of the differences between ES5 and ES6 syntax.
 
 * [ ] Look up what an IIFE is in JavaScript and experiment with them

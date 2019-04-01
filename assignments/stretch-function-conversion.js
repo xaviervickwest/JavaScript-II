@@ -20,4 +20,4 @@
 // const triple = exampleArray.map(function (num) {
 //   return num * 3;
 // });
-// console.log(triple);
+// console.log(triple); 

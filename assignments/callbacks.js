@@ -8,7 +8,7 @@ solution to figure out the rest of the problems.
 const items = ['Pencil', 'Notebook', 'yo-yo', 'Gum'];
 
 
-
+ 
 
 
   //Given this problem:
